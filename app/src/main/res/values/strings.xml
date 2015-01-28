@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KaraokeApp</string>
+    <string name="btn_registration">Registration</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_fb_login">Facebook Log In</string>
+    
+    <string-array 
+        name="navigation_drawer_titles">
+        <item>Favorites</item>
+        <item>All songs by Artist</item>
+        <item>All songs by Name</item>
+        <item>Queue of songs</item>
+        <item>Settings</item>
+    </string-array>
+
+    <array name="navigation_drawer_icon">
+        <item>@drawable/ic_nav_bar_favorites</item>
+        <item>@drawable/ic_nav_bar_list</item>
+        <item>@drawable/ic_nav_bar_list</item>
+        <item>@drawable/ic_nav_bar_queue</item>
+        <item>@drawable/ic_nav_bar_settings</item>
+    </array>
+    <string name="drawer_open">Option navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="not_implemented">Sorry, but still not implemented. Next version</string>
+</resources>
